@@ -1,0 +1,19 @@
+h1 {
+    text-align: center; 
+    color: rgb(0,0,0); 
+}
+
+.insidemarker {
+    margin-top: 11px; 
+    padding: 11px;    
+    background-color: rgb(255,255,255); 
+}
+
+
+#map {
+    height: 390px;
+    width: 100%;   
+    border: 2.5px solid rgb(255,255,255); 
+    margin-bottom: 18px; 
+}
+
